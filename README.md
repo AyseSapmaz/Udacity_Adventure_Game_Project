@@ -1,7 +1,7 @@
 # Udacity_Adventure_Game_Project
 Making a simple version of an old-fashioned text-based adventure game
 
-P.S: To run adventure_game.py open a console, navigate to the directory where adventure_game.py was saved and type "python3 adventure_game.py".
+    P.S: To run adventure_game.py open a console, navigate to the directory where adventure_game.py was saved and type "python3 adventure_game.py".
 
 
 Instructions from Udacity:
