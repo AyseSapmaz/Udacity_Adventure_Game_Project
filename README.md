@@ -56,7 +56,11 @@ These are the key features that your project will need to have in order to make 
 
 * With such a function, you could simply pass it a message to print, and it would take care of the pausing:
 
-* print_pause("You find yourself in a dark dungeon.") print_pause("There are two passageways in front of you.") print_pause("Which way do you want to go?")
+          print_pause("You find yourself in a dark dungeon.") 
+          
+          print_pause("There are two passageways in front of you.") 
+          
+          print_pause("Which way do you want to go?")
 
 * Here's another way you can use functions in a game like this—you can define a function for each place the player can go. In the example game, the code looks something like this:
 
