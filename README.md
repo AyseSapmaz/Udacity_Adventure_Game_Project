@@ -1,7 +1,8 @@
 # Udacity_Adventure_Game_Project
 Making a simple version of an old-fashioned text-based adventure game
 
-    P.S: To run adventure_game.py open a console, navigate to the directory where adventure_game.py was saved and type "python3 adventure_game.py".
+    P.S: To run adventure_game.py open a console, navigate to the directory where adventure_game.py was saved 
+    and type "python3 adventure_game.py".
 
 
 Instructions from Udacity:
@@ -31,7 +32,7 @@ These are the key features that your project will need to have in order to make 
 
 * Another important element of any good adventure game is choice. To do this, you'll need to get some input from the player, and then change what happens depending on what that input is. In the example game, that looked like this:
 
-* Enter 1 to knock on the door of the house. Enter 2 to peer into the cave.
+         Enter 1 to knock on the door of the house. Enter 2 to peer into the cave.
 
 * Make sure the player gives valid input
 
