@@ -38,7 +38,7 @@ These are the key features that your project will need to have in order to make 
 
 * Another thing to notice in the example game is that if the player enters something other than 1 or 2, the game keeps asking them for a 1 or 2. We don't want the game to accept invalid input, like 75 or foo!
 
-*(Please enter 1 or 2.) 75 (Please enter 1 or 2.) foo (Please enter 1 or 2.)
+* (Please enter 1 or 2.) 75 (Please enter 1 or 2.) foo (Please enter 1 or 2.)
 
 * If the player tries to respond with something invalid, your program should ask them to try again—and it should keep asking them to try again until they give valid input.
 
