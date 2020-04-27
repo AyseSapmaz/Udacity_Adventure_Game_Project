@@ -110,18 +110,5 @@ if __name__ == "__main__":
 
 
 
-# def choosePath(): # input validation second way
-#   response = "" 
-#   while response ! = "1" and response ! = "2":
-#         print_pause("Sorry, I don't understand.")   
-#         response = valid_input("Enter 1 to knock on the door of the house.\n"
-#                  "Enter 2 to peer into the cave.\n", '1' , '2' )
-
-#   return response  
-
-
-
-
-
 
 
