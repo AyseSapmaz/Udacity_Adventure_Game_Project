@@ -101,8 +101,8 @@ def adventure_game():
     intro()
     field(item)
 
-
-adventure_game()
+if __name__ == "__main__":
+     adventure_game()
 
 
 
